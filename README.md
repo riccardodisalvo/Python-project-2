@@ -8,14 +8,6 @@ This project is divided into two main phases: data cleaning and transformation, 
 
 The dataset used for this project is 'aviation-accident.csv'. It contains information on aviation accidents, like dates, fatalities, and other relevant details.
 
-## Project Structure
-
-- **data_cleaning.py**: Script for data cleaning and transformation.
-- **data_analysis.py**: Script for data analysis and visualization.
-- **README.md**: Project documentation.
-- **requirements.txt**: List of required Python packages.
-
-
 ## Data Analysis and Visualization
 
 We perform data analysis and generate visualizations to answer key questions:
