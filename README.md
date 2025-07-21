@@ -34,8 +34,8 @@ Il dataset fornito contiene le seguenti colonne:
 
 # Visualizzazioni
 
--**Grafici e Visualizzazioni:** Creare grafici per visualizzare i dati e semplificare l'interpretazione degli insight.
--**Cartogramma:** Rappresentare visivamente il numero di incidenti per nazione su una mappa.
+**Grafici e Visualizzazioni:** Creare grafici per visualizzare i dati e semplificare l'interpretazione degli insight.
+**Cartogramma:** Rappresentare visivamente il numero di incidenti per nazione su una mappa.
 
 # Bonus
 Cartogramma degli Incidenti per Nazione: Creare un cartogramma che mostri il numero di incidenti per nazione.
