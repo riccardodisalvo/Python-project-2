@@ -38,8 +38,8 @@ Il dataset fornito contiene le seguenti colonne:
 **Cartogramma:** Rappresentare visivamente il numero di incidenti per nazione su una mappa.
 
 # Bonus
-Cartogramma degli Incidenti per Nazione: Creare un cartogramma che mostri il numero di incidenti per nazione.
+**Cartogramma degli Incidenti per Nazione:** Creare un cartogramma che mostri il numero di incidenti per nazione.
 
-Contributi
+# Contributi
 Questa analisi fornisce una panoramica completa dei disastri aerei dal 1919 al 2023, evidenziando le tendenze e le aree critiche che possono guidare future strategie di miglioramento della sicurezza aerea. Grazie a un'analisi approfondita e a visualizzazioni dettagliate, il progetto mira a contribuire a cieli più sicuri.
 Contributi e feedback sono benvenuti! 
