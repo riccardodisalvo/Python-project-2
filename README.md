@@ -18,19 +18,19 @@ Il dataset fornito contiene le seguenti colonne:
 ## Analisi degli Incidenti Aerei
    
   1.  Nazione con il Maggior Numero di Incidenti
-      Identificare quale nazione ha registrato il maggior numero di incidenti aerei.
+      - Identificare quale nazione ha registrato il maggior numero di incidenti aerei.
   
    2. Frequenza degli Incidenti per Giorno della Settimana
-      Determinare se gli incidenti avvengono più di frequente in determinati giorni della settimana.
+      - Determinare se gli incidenti avvengono più di frequente in determinati giorni della settimana.
    
    3. Operatori più Sicuri
-      Analizzare quali operatori aerei hanno il minor numero di incidenti o di morti.
+      - Analizzare quali operatori aerei hanno il minor numero di incidenti o di morti.
    
    4. Velivolo più Pericoloso
-      Individuare quale tipo di velivolo è associato al maggior numero di morti.
+      - Individuare quale tipo di velivolo è associato al maggior numero di morti.
    
    5. Evoluzione degli Incidenti Post 11 Settembre
-      Esaminare come gli incidenti aerei si sono evoluti dopo l'11 settembre 2001.
+      - Esaminare come gli incidenti aerei si sono evoluti dopo l'11 settembre 2001.
 
 # Visualizzazioni
 
