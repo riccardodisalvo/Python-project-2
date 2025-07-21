@@ -1,37 +1,45 @@
-# Aviation Accidents Analysis
+# Descrizione del Progetto
 
-## Description
+La International Alliance for Safe Skies (IASS) ha incaricato un'analisi dettagliata di tutti gli incidenti aerei avvenuti dal 1919 al 2023. Il progetto mira a fornire insight significativi sulla sicurezza aerea, sfruttando un dataset contenente quasi 25.000 incidenti. L'obiettivo è scoprire pattern, tendenze e anomalie che possano contribuire a migliorare la sicurezza del volo.
 
-This project is divided into two main phases: data cleaning and transformation, and data analysis and visualization. It utilizes a dataset of aviation accidents to extract meaningful insights, explore trends, and generate useful visualizations.
+# Dataset
+Il dataset fornito contiene le seguenti colonne:
+- date: Data dell'incidente
+- type: Tipo del velivolo
+- registration: Codice di registrazione del velivolo
+- operator: Operatore del velivolo
+- fatalities: Numero di morti
+- location: Luogo dell'incidente
+- country: Nazione dell'incidente
+- cat: Categoria dell'incidente come descritto dal ASN
 
-## Dataset
+# Obiettivi del Progetto
 
-The dataset used for this project is 'aviation-accident.csv'. It contains information on aviation accidents, like dates, fatalities, and other relevant details.
-
-## Data Analysis and Visualization
-
-We perform data analysis and generate visualizations to answer key questions:
-
-1. ** Which country had the highest number of accidents?**
-   - **Visualization**: Bar chart showing the number of accidents per country.
-2. ** Which days of the week had the highest number of accidents?**
-   - **Visualization**: Bar chart showing the number of accidents by day of the week.
-3. ** What are the safest operators?**
-   - **Visualization**: Table showing the top 5 operators with more than 5 accidents but no fatalities.
-4. ** Which type of aircraft caused the most deaths?**
-   - **Visualization**: Table listing the top 10 aircraft types with the highest number of fatalities.
-5. ** How have aviation accidents evolved after September 11, 2001?**
-   - **Visualization**: Line Plot comparing the number of accidents before and after September 11, 2001.
-6. ** Average number of victims by accident category **
-   - **Visualization**: Bar Char showig the average of fatalities per category of incident.
-7. ** Trend of the average number of victims over the last 15 years. **
-   - **Visualization**: Line Plot comparing average of fatalities with year.
-8. ** Comparison of the averages of air accidents and the averages of victims
-as a time reference of the last 10 years. **
-   - **Visualization**: Line Plot comparing the average numbers with year.
-9. ** How many times after a fatality-free accident is there an accident with at least one fatality? **
-   - **Visualization**: Bar Char comparing incidets without fataities and incient with fatalities.
-10. ** How are accidents distributed in countries present in the dataset? **
-    - **Visualization**: Map comparing sum of fatalities between different countries.
+## Analisi degli Incidenti Aerei
+   
+  1.  Nazione con il Maggior Numero di Incidenti
+      Identificare quale nazione ha registrato il maggior numero di incidenti aerei.
   
+   2. Frequenza degli Incidenti per Giorno della Settimana
+      Determinare se gli incidenti avvengono più di frequente in determinati giorni della settimana.
+   
+   3. Operatori più Sicuri
+      Analizzare quali operatori aerei hanno il minor numero di incidenti o di morti.
+   
+   4. Velivolo più Pericoloso
+      Individuare quale tipo di velivolo è associato al maggior numero di morti.
+   
+   5. Evoluzione degli Incidenti Post 11 Settembre
+      Esaminare come gli incidenti aerei si sono evoluti dopo l'11 settembre 2001.
 
+# Visualizzazioni
+
+-**Grafici e Visualizzazioni:** Creare grafici per visualizzare i dati e semplificare l'interpretazione degli insight.
+-**Cartogramma:** Rappresentare visivamente il numero di incidenti per nazione su una mappa.
+
+# Bonus
+Cartogramma degli Incidenti per Nazione: Creare un cartogramma che mostri il numero di incidenti per nazione.
+
+Contributi
+Questa analisi fornisce una panoramica completa dei disastri aerei dal 1919 al 2023, evidenziando le tendenze e le aree critiche che possono guidare future strategie di miglioramento della sicurezza aerea. Grazie a un'analisi approfondita e a visualizzazioni dettagliate, il progetto mira a contribuire a cieli più sicuri.
+Contributi e feedback sono benvenuti! 
