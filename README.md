@@ -1,8 +1,10 @@
-# Descrizione del Progetto
+# Analisi dei disastri aerei dal 1919 al 2023
+
+## Descrizione del Progetto
 
 La International Alliance for Safe Skies (IASS) ha incaricato un'analisi dettagliata di tutti gli incidenti aerei avvenuti dal 1919 al 2023. Il progetto mira a fornire insight significativi sulla sicurezza aerea, sfruttando un dataset contenente quasi 25.000 incidenti. L'obiettivo è scoprire pattern, tendenze e anomalie che possano contribuire a migliorare la sicurezza del volo.
 
-# Dataset
+## Dataset
 Il dataset fornito contiene le seguenti colonne:
 - date: Data dell'incidente
 - type: Tipo del velivolo
@@ -13,9 +15,9 @@ Il dataset fornito contiene le seguenti colonne:
 - country: Nazione dell'incidente
 - cat: Categoria dell'incidente come descritto dal ASN
 
-# Obiettivi del Progetto
+## Obiettivi del Progetto
 
-## Analisi degli Incidenti Aerei
+### Analisi degli Incidenti Aerei
    
   1.  Nazione con il Maggior Numero di Incidenti
       - Identificare quale nazione ha registrato il maggior numero di incidenti aerei.
@@ -32,14 +34,15 @@ Il dataset fornito contiene le seguenti colonne:
    5. Evoluzione degli Incidenti Post 11 Settembre
       - Esaminare come gli incidenti aerei si sono evoluti dopo l'11 settembre 2001.
 
-# Visualizzazioni
+## Visualizzazioni
 
 **Grafici e Visualizzazioni:** Creare grafici per visualizzare i dati e semplificare l'interpretazione degli insight.
 **Cartogramma:** Rappresentare visivamente il numero di incidenti per nazione su una mappa.
 
-# Bonus
+## Bonus
 **Cartogramma degli Incidenti per Nazione:** Creare un cartogramma che mostri il numero di incidenti per nazione.
 
-# Contributi
+## Contributi
 Questa analisi fornisce una panoramica completa dei disastri aerei dal 1919 al 2023, evidenziando le tendenze e le aree critiche che possono guidare future strategie di miglioramento della sicurezza aerea. Grazie a un'analisi approfondita e a visualizzazioni dettagliate, il progetto mira a contribuire a cieli più sicuri.
+
 Contributi e feedback sono benvenuti! 
